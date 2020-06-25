@@ -1,6 +1,68 @@
 @charset "UTF-8";
 
-html, body {
-	background-color:darkred;
-	color: aliceblue;
+body{
+	background-image: url("../Images/backgroundblue.jpg");
+		
+}
+.title{
+  text-align: center;
+font-family: Impact, Haettenschweiler, 'Franklin Gothic Bold', 'Arial Black', 'sans-serif';
+	color: antiquewhite;
+	font-size: 80px;
+}
+
+.bg-color{
+	background-color: antiquewhite;
+
+}
+
+.bg-nav{
+	background-color: antiquewhite;
+}
+
+.body-text{
+font-family: Constantia, 'Lucida Bright', 'DejaVu Serif', Georgia, 'serif';
+	font-weight: 300;
+color: #ffffff;	color: black;
+	padding-top: 15px;
+	padding-bottom: 20px;
+	
+}
+
+.white-bg{
+	background-color: white;
+}
+
+.center{
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+p{
+font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+
+}
+
+h5{
+font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+
+}
+.photo-padding{
+	padding-top: 20px;
+
+}
+
+.col-padding{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.small{
+	font-size: 15px;
+	font-style: italic;
+}
+
+footer{
+	background-color: #FADADA;
 }
